@@ -6,7 +6,7 @@ Web Developer
 
 I am a results-driven Web Developer with a strong foundation in modern frontend technologies and growing expertise in Python and advanced JavaScript. I build scalable, high-performance, user-focused web applications using clean architecture and industry best practices.
 
-* ✉️  You can contact me at [zaidzizoune@gmai.com](mailto:zaidzizoune@gmail.com)
+* ✉️  You can contact me at [zaidzizoune@gmail.com](mailto:zaidzizoune@gmail.com)
 * 🧠  I'm currently learning Python and advanced JS
 * 👥  I'm looking to collaborate on Creative web projects
 * 💬  Ask me about Always looking for the next challenge to expand my technical horizon.
